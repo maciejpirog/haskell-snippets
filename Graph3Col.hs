@@ -20,10 +20,8 @@
 
 module Graph3Col where
 
-import Data.Kind
 import GHC.TypeLits (TypeError, ErrorMessage(Text))
 import Data.Maybe (listToMaybe)
-import Control.Monad (foldM)
 
 ------------
 -- GRAPHS --

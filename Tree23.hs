@@ -7,7 +7,7 @@ This file defines 2-3 trees together with insertion such that:
 
 - Insertions and rotations are defined in separate functions.
 
-This is surprisingly tricky, and the solution relies on heterogenously
+This is surprisingly tricky, and the solution relies on heterogeneously
 typed smart constructors (via type classes).
 -}
 
